@@ -1,0 +1,2 @@
+# Data_Analysis_Case_Study_2
+Welcome To The Data Analysis Process - Case Study 2 In this second case study, you'll be analyzing fuel economy data provided by the EPA, or Environmental Protection Agency.  What is Fuel Economy? Excerpt from Wikipedia page on Fuel Economy in Automobiles:  The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount of fuel consumed by the vehicle. Consumption can be expressed in terms of volume of fuel to travel a distance, or the distance travelled per unit volume of fuel consumed.
